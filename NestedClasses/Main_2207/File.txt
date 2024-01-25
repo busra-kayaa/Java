@@ -1,0 +1,25 @@
+Chai	1	10 boxes x 20 bags	18.0	39
+Guaraná Fantástica	1	12 - 355 ml cans	4.5	20
+Aniseed Syrup	2	12 - 550 ml bottles	10.0	13
+Chef Anton's Cajun Seasoning	2	48 - 6 oz jars	22.0	53
+Chef Anton's Gumbo Mix	2	36 boxes	21.35	0
+Grandma's Boysenberry Spread	2	12 - 8 oz jars	25.0	120
+Northwoods Cranberry Sauce	2	12 - 12 oz jars	40.0	6
+Genen Shouyu	2	24 - 250 ml bottles	15.5	39
+Adi	2	SDosaglka-shshlsş	15.6	50
+Konbu	3	2 kg box	6.0	24
+Pavlova	3	32 - 500 g boxes	17.45	29
+Teatime Chocolate Biscuits	3	10 boxes x 12 pieces	9.2	25
+Sir Rodney's Marmalade	3	30 gift boxes	0.0	40
+Sir Rodney's Scones	3	24 pkgs. x 4 pieces	10.0	3
+NuNuCa Nuß-Nougat-Creme	3	20 - 450 g glasses	14.0	76
+Mishi Kobe Niku	4	18 - 500 g pkgs.	97.0	29
+Queso Cabrales	4	1 kg pkg.	21.0	72
+Queso Manchego La Pastora	4	10 - 500 g pkgs.	38.0	86
+Uncle Bob's Organic Dried Pears	5	12 - 1 lb pkgs.	30.0	15
+Ikura	5	12 - 200 ml jars	31.0	46
+Tofu	5	40 - 100 g pkgs.	23.25	35
+Alice Mutton	5	20 - 1 kg tins	39.0	0
+Carnarvon Tigers	5	16 kg pkg.	62.5	42
+Gustaf's Knäckebröd	5	24 - 500 g pkgs.	21.0	104
+Tunnbröd	5	12 - 250 g pkgs.	9.0	61
